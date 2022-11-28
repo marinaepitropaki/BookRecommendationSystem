@@ -2,3 +2,11 @@ Preprocessed_data.csv
 Preprocessed_data_cleaned.csv
 .ipynb_checkpoints/BookRecommendationSystem-checkpoint.ipynb
 data_analysis*
+Books_Votes.csv
+Books_Votes_Score.csv
+BX-Book-Ratings.csv
+BX_Books.csv
+isbn_4col.csv
+isbn_df.csv
+isbn_4col-checkpoint.csv
+isbn_df-checkpoint.csv
